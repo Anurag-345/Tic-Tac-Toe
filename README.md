@@ -13,7 +13,6 @@
 
 # Tools:
 - Visual Studio Code
-- vercel(for hosting)
 
 # future improvements:
 - This is not too responsive but it will after some time.
@@ -22,5 +21,4 @@
 # Link
 - https://tic-tac-toe-javascript.vercel.app/
 
-# Thnak-you 💖
-- Pavitra Behara
+
