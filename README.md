@@ -19,6 +19,6 @@
 - And i am also want to add multiplayer mode.
 
 # Link
-- https://tic-tac-toe-javascript.vercel.app/
+-https://anurag-345.github.io/Tic-Tac-Toe/
 
 
